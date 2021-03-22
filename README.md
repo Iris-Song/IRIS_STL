@@ -1,6 +1,6 @@
 # IRIS_STL
 write STL for learning
 
-### thanks for
+### thanks to
 
-My teacher larry bring up this idea to improve data structure & algorithm
+My teacher Larry bring up this idea to improve data structure & algorithm
